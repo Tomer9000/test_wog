@@ -1,0 +1,1 @@
+from wog.tests import e2e

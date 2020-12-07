@@ -1,0 +1,2 @@
+import wog
+wog.main()
